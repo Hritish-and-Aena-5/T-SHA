@@ -84,8 +84,8 @@ Please make sure to update tests as appropriate.
 
 
 License
-----
+---
 
-GPL-3.0 License
+MIT
 
 
